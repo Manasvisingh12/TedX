@@ -6,9 +6,9 @@ import { Button } from "../ui/button";
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "https://www.ted.com/tedx/events/63850", label: "About Us" },
-  { href: "/out-team", label: "Team" },
-  { href: "/Partners", label: "Partners" },
-  { href: "#", label: "Speakers" },
+  { href: "/our-team", label: "Team" },
+  { href: "/partners", label: "Partners" },
+  { href: "/speakers", label: "Speakers" },
 ];
 
 const Navbar = () => {
