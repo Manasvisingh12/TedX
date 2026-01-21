@@ -1,4 +1,4 @@
-import { PrismaClient } from "@prisma/client";
+/*import { PrismaClient } from "@prisma/client";
 import { Resend } from "resend";
 
 const prisma = new PrismaClient();
@@ -58,4 +58,4 @@ export async function POST(request) {
   }
 }
 //test 1
-export { POST as default };
+export { POST as default };/*
